@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rpstreetbaz.aternos.me",
-    "port": 51854,
+    "ip": "streetbazzz41.aternos.me",
+    "port": 35479,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Je suis un bot",
+        "Coucou!",
+        "Prout"
       ]
     },
     "chat-log": true,
